@@ -28,3 +28,11 @@ Executing the code
 > **app1.mlapp** - The UI made natively in MATLAB.
 
 > **Tumor_Extraction.mlappinstall** - The installation file used to install the app in MATLAB.
+
+### UI Snapshots
+![Interface_1](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/1.png)
+![Interface_2](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/2.png)
+![Interface_3](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/3.png)
+![Interface_4](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/4.png)
+![Interface_5](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/5.png)
+![Interface_6](https://github.com/raj-patra/Brain-tumor-extraction/blob/master/UI%20Snaps/6.png)
